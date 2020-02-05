@@ -4,6 +4,7 @@ To compile the code you will need GNU Make and gcc installed.
 you can execute the scripts in the script folder with bash installed too
 
 Usage:
+
 Clone the the repo, enter the directory cloned 
 1. make
 2. ./scripts/complexity (1st arg pile size 2nd number of test)
