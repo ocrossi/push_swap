@@ -39,7 +39,7 @@ Clone the the repo, enter the directory cloned
 
 ![Screenshot](img/testsh.png)
 
-4. `./checker [input] | ./push_swap [input]`
+4. `./push_swap [input] | ./checker [input]`
 
 ![Screenshot](img/pushcheck.png)
 
