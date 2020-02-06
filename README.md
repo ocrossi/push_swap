@@ -10,11 +10,15 @@ Usage:
 
 Clone the the repo, enter the directory cloned 
 1. `make`
+![Screenshot](ressources/img/make.png)
 2. `./scripts/complexity` (1st arg pile size 2nd number of test)
-3. `./scripts/test.sh` (1st number 2nd number)
-4. `./checker | ./push_swap [input]`
+![Screenshot](ressources/img/complexity.png)
+3. `./scripts/test.sh [input 1] [input2]` (1st number 2nd number)
+![Screenshot](ressources/img/testsh.png)
+4. `./checker [input] | ./push_swap [input]`
+![Screenshot](ressources/img/pushcheck.png)
 
-I did not code those scripts.
+I did not code the complexity script.
 
 Subject is in the code session. 
 
