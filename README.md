@@ -1,5 +1,6 @@
 # push_swap
 
+![Screenshot](img/ps_graph.png)
 
 Subject is in the code session. 
 
@@ -44,4 +45,4 @@ Clone the the repo, enter the directory cloned
 
 I did not code the complexity script.
 
-![Screenshot](img/ps_graph.png)
+
