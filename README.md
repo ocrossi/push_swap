@@ -3,24 +3,6 @@
 
 Subject is in the code session. 
 
-To compile the code you will need GNU Make and gcc installed. 
-you can execute the scripts in the script folder with bash installed too
-
-Usage:
-
-Clone the the repo, enter the directory cloned 
-1. `make`
-![Screenshot](ressources/img/make.png)
-2. `./scripts/complexity` (1st arg pile size 2nd number of test)
-![Screenshot](ressources/img/complexity.png)
-3. `./scripts/test.sh [input 1] [input2]` (1st number 2nd number)
-![Screenshot](ressources/img/testsh.png)
-4. `./checker [input] | ./push_swap [input]`
-![Screenshot](ressources/img/pushcheck.png)
-
-I did not code the complexity script.
-
-Subject is in the code session. 
 
 This subject is about coding a sorting algorithm with a limit set of instructions. It introduces the concept of complexity in algorithmics.
 
@@ -38,4 +20,28 @@ keep splitting median groups if needed
 
 
 
-![Screenshot](ressources/img/ps_graph.png)
+To compile the code you will need GNU Make and gcc installed. 
+you can execute the scripts in the script folder with bash installed too
+
+Usage:
+
+Clone the the repo, enter the directory cloned 
+1. `make`
+
+![Screenshot](img/make.png)
+
+2. `./scripts/complexity` (1st arg pile size 2nd number of test)
+
+![Screenshot](img/complexity.png)
+
+3. `./scripts/test.sh [input 1] [input2]` (1st number 2nd number)
+
+![Screenshot](img/testsh.png)
+
+4. `./checker [input] | ./push_swap [input]`
+
+![Screenshot](img/pushcheck.png)
+
+I did not code the complexity script.
+
+![Screenshot](img/ps_graph.png)
