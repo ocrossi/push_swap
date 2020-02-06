@@ -35,3 +35,7 @@ Divide input in pockets of numbers according to the median of the pile, adapted 
 Apply low level case
 
 keep splitting median groups if needed 
+
+
+
+![Screenshot](ressources/img/ps_graph.png)
