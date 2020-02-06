@@ -1,5 +1,8 @@
 # push_swap
 
+
+Subject is in the code session. 
+
 To compile the code you will need GNU Make and gcc installed. 
 you can execute the scripts in the script folder with bash installed too
 
@@ -9,12 +12,11 @@ Clone the the repo, enter the directory cloned
 1. `make`
 2. `./scripts/complexity` (1st arg pile size 2nd number of test)
 3. `./scripts/test.sh` (1st number 2nd number)
+4. `./checker | ./push_swap [input]`
 
 I did not code those scripts.
 
 Subject is in the code session. 
-
-Compiling and executing the code is explained in the readme file
 
 This subject is about coding a sorting algorithm with a limit set of instructions. It introduces the concept of complexity in algorithmics.
 
